@@ -54,10 +54,6 @@ For movie lovers, **MOFI** is a **sleek and interactive movie comparison app** b
 
 ### [](https://github.com/Abdul17rahman/mofi)
 
-![Project 2 Screenshot](project_2_screenshot_url)
-
-For movie lovers, **MOFI** is a **sleek and interactive movie comparison app** built with **React.js, Tailwind, Zustand, TMDB API**. This project showcases my skills in **building frontend applications and consuming external APIs**. You can check out the repository [here](https://github.com/Abdul17rahman/mofi).
-
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**([abdul.io](https://abdul17rahman.github.io))
