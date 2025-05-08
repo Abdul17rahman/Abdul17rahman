@@ -36,19 +36,19 @@ I am a **Software Developer** with a passion for building complex real world app
 
 ### [gigUp](https://github.com/Abdul17rahman/gigUp)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![gigup](https://github.com/user-attachments/assets/d25028c9-4686-427e-b31f-255fb0fb38fa)
 
 **gigUp** is a **freelancing job portal** built with **Nodejs, MongoDB,Express, HTML, CSS and JS**. This project demonstrates my ability to **built full stack applications using Nodejs backend**. You can check out the repository [here](https://github.com/Abdul17rahman/gigUp).
 
 ### [Quoty](https://github.com/Abdul17rahman/Quoty_App)
 
-![Project 2 Screenshot](project_2_screenshot_url)
+![quoty](https://github.com/user-attachments/assets/0ee2a20d-5a3f-4520-bcad-659e971f14cc)
 
 **Quoty** is an **application is designed to inspire, motivate and impact through quotes.** built with **Python, Flask, MySql, HTML, CSS and JS**. This project showcases my skills in **building fullstack applications using Flask web framework**. You can check out the repository [here](https://github.com/Abdul17rahman/Quoty_App).
 
 ### [MOFI](https://github.com/Abdul17rahman/mofi)
 
-![Project 2 Screenshot](project_2_screenshot_url)
+<img width="1440" alt="mofi" src="https://github.com/user-attachments/assets/c1617ceb-d63b-4844-9c53-9ba1224281d7" />
 
 For movie lovers, **MOFI** is a **sleek and interactive movie comparison app** built with **React.js, Tailwind, Zustand, TMDB API**. This project showcases my skills in **building frontend applications and consuming external APIs**. You can check out the repository [here](https://github.com/Abdul17rahman/mofi).
 
@@ -57,5 +57,5 @@ For movie lovers, **MOFI** is a **sleek and interactive movie comparison app** b
 ## Get in Touch 📬
 
 - **Personal Website / Blog**([abdul.io](https://abdul17rahman.github.io))
-- **LinkedIn**([Abdul-rahman]https://www.linkedin.com/in/abdul-rahman17/)
-- **Twitter**([@ar_nsamba](https://x.com/ar_nsamba))
+- **LinkedIn**[Abdul-rahman](https://www.linkedin.com/in/abdul-rahman17/)
+- **Twitter**[@ar_nsamba](https://x.com/ar_nsamba))
