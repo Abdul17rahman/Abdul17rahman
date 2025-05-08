@@ -1,4 +1,4 @@
-# Hello World, I'm [Abdul Rahman]! 👋
+# Hello World, I'm Abdul Rahman! 👋
 
 ![Blue and White Architect LinkedIn Banner](https://github.com/user-attachments/assets/e66ac257-ee7b-4dbe-9073-1e5a4f516d46)
 
@@ -34,17 +34,29 @@ I am a **Software Developer** with a passion for building complex real world app
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [gigUp](https://github.com/Abdul17rahman/gigUp)
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**gigUp** is a **freelancing job portal** built with **Nodejs, MongoDB,Express, HTML, CSS and JS**. This project demonstrates my ability to **built full stack applications using Nodejs backend**. You can check out the repository [here](https://github.com/Abdul17rahman/gigUp).
 
-### [Project 2 Title](project_2_link)
+### [Quoty](https://github.com/Abdul17rahman/Quoty_App)
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**Quoty** is an **application is designed to inspire, motivate and impact through quotes.** built with **Python, Flask, MySql, HTML, CSS and JS**. This project showcases my skills in **building fullstack applications using Flask web framework**. You can check out the repository [here](https://github.com/Abdul17rahman/Quoty_App).
+
+### [MOFI](https://github.com/Abdul17rahman/mofi)
+
+![Project 2 Screenshot](project_2_screenshot_url)
+
+For movie lovers, **MOFI** is a **sleek and interactive movie comparison app** built with **React.js, Tailwind, Zustand, TMDB API**. This project showcases my skills in **building frontend applications and consuming external APIs**. You can check out the repository [here](https://github.com/Abdul17rahman/mofi).
+
+### [](https://github.com/Abdul17rahman/mofi)
+
+![Project 2 Screenshot](project_2_screenshot_url)
+
+For movie lovers, **MOFI** is a **sleek and interactive movie comparison app** built with **React.js, Tailwind, Zustand, TMDB API**. This project showcases my skills in **building frontend applications and consuming external APIs**. You can check out the repository [here](https://github.com/Abdul17rahman/mofi).
 
 ## Get in Touch 📬
 
