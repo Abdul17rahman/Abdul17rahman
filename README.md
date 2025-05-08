@@ -56,6 +56,6 @@ For movie lovers, **MOFI** is a **sleek and interactive movie comparison app** b
 
 ## Get in Touch 📬
 
-- **Personal Website / Blog**([abdul.io](https://abdul17rahman.github.io))
+- **Personal Website / Blog**[abdul.io](https://abdul17rahman.github.io)
 - **LinkedIn**[Abdul-rahman](https://www.linkedin.com/in/abdul-rahman17/)
-- **Twitter**[@ar_nsamba](https://x.com/ar_nsamba))
+- **Twitter**[@ar_nsamba](https://x.com/ar_nsamba)
