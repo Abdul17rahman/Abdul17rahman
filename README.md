@@ -34,9 +34,10 @@ I am a **Software Developer** with a passion for building complex real world app
 
 ## Featured Projects 💻
 
-### [Hammad](https://github.com/Abdul17rahman/gigUp)
+### [Hammad](https://github.com/Abdul17rahman/Hammad_java)
 
-![gigup](https://github.com/user-attachments/assets/d25028c9-4686-427e-b31f-255fb0fb38fa)
+<img width="1920" height="1080" alt="1729070725664" src="https://github.com/user-attachments/assets/a209c21e-3489-419e-b5ad-0007f8fe4837" />
+
 
 **Hammad** is a **Desktop School Management System** built with **Java, Swing, and iReports**. This project demonstrates my ability to **built full scalable desktop software systems with reporting tools**. You can check out the repository [here](https://github.com/Abdul17rahman/Hammad_java).
 
@@ -60,7 +61,6 @@ For movie lovers, **MOFI** is a **sleek and interactive movie comparison app** b
 
 ### [simpleshell](https://github.com/Abdul17rahman/simple_shell)
 
-![simpleshell](https://github.com/user-attachments/assets/d25028c9-4686-427e-b31f-255fb0fb38fa)
 
 **Simple Shell** is a **custom command line interface** built with **C, Linux Programming, System Programming**. It mimics the Linux bash shell and simply accepts, runs, and excute terminal commands. **built full stack applications using Nodejs backend**. You can check out the repository [here](https://github.com/Abdul17rahman/simple_shell).
 
